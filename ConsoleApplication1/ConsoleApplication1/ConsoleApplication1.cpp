@@ -8,7 +8,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	std::cout << "hhhh" << std::endl;
-	//
+	////
 	return 0;
 }
 
